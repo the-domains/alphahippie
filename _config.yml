@@ -1,0 +1,14 @@
+layout_spectrum: 0.32020700024440885
+typography_spectrum: 0.356851021759212
+color:
+  brandStrength: 0.9500976181589067
+  lightness: 0.19383918587118387
+  saturation: 0.05951385502703488
+  rhythmicContrast: 0.005600948818027973
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: alphahippie
