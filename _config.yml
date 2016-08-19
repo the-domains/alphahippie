@@ -5,11 +5,11 @@ color:
   saturation: 0.05951385502703488
   rhythmicContrast: 0.005600948818027973
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
 layout_spectrum: 0.32020700024440885
 name: ':: alphahippie ::'
 title: think about it
